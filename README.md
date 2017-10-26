@@ -2,7 +2,8 @@
 
 ## Swacchta
 
-This Project is made in random hacks of kindness
+This Project is made in random hacks of kindness.
+
 The contributors are:
 * [Gaurav Rawal](https://github.com/g-ur-v)
 * [Nikhil Sharma](https://github.com/nikhil722sharma)
