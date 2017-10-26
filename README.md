@@ -2,8 +2,7 @@
 
 ## Swacchta
 
-This Project is made in random hacks of kindness held on 15-16 June 2017, at 91 Springboard, Gurugram.
-
+This Project is made in random hacks of kindness
 The contributors are:
 * [Gaurav Rawal](https://github.com/g-ur-v)
 * [Nikhil Sharma](https://github.com/nikhil722sharma)
